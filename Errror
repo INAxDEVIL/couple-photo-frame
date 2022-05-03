@@ -1,0 +1,3 @@
+    java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference
+    
+        at com.example.couplephotoframe.MainActivity$5.onClick(MainActivity.java:121)
